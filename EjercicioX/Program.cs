@@ -10,6 +10,7 @@ namespace EjercicioX
 
             string t = Console.ReadLine();
 
+            Console.WriteLine("Ahora lo que escribiste, pero en minúscula: ");
             Console.WriteLine(t.ToLower());
 
             Console.ReadKey();
